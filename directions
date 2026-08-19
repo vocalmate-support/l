@@ -1,0 +1,18 @@
+git add .
+git commit -m "설명"
+git push
+
+cd "/path/to/Vocal mate shop"
+
+# 1. songs.csv에 새 곡 추가 (에디터에서)
+
+# 2. 리디렉션 페이지 생성
+python3 make_redirects.py
+
+# 3. QR 생성
+python3 make_qr.py
+
+# 4. 배포
+git add .
+git commit -m "Add Per la gloria d'adorarvi"
+git push

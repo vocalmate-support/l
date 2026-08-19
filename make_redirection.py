@@ -1,6 +1,6 @@
 import csv, os, html
 
-OUT = "docs/s"
+OUT = "docs"
 os.makedirs(OUT, exist_ok=True)
 
 TPL = """<!DOCTYPE html>

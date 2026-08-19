@@ -1,13 +1,13 @@
 slug,title,composer,key,kind,youtube_id
-gluck-odm,O del mio dolce ardor,Gluck,e-minor,vocal,qu-AQ4iMyFA
-gluck-odm,O del mio dolce ardor,Gluck,e-minor,accomp,zU0ZhOZcFYs
-gluck-odm,O del mio dolce ardor,Gluck,d-minor,vocal,DcRpFQaVPPM
-gluck-odm,O del mio dolce ardor,Gluck,d-minor,accomp,GrbrPcxthCs
-gluck-odm,O del mio dolce ardor,Gluck,f-minor,vocal,GiBxePuxblY
-gluck-odm,O del mio dolce ardor,Gluck,f-minor,accomp,L0mHoZet6kQ
-bononcini-plg,Per la gloria d’adorarvi,Bononcini,f-major,vocal,TL87g16kH5A
-bononcini-plg,Per la gloria d’adorarvi,Bononcini,f-major,accomp,m8xG4j3Da9c
-bononcini-plg,Per la gloria d’adorarvi,Bononcini,e-flat-major,vocal,duSbpa4Q5C8
-bononcini-plg,Per la gloria d’adorarvi,Bononcini,e-flat-major,accomp,zD1zB7Ol5F4
-bononcini-plg,Per la gloria d’adorarvi,Bononcini,g-major,vocal,VcPJKPiMRSA
-bononcini-plg,Per la gloria d’adorarvi,Bononcini,g-major,accomp,S77WZrQvJjI
+odm,O del mio dolce ardor,Gluck,em,vocal,qu-AQ4iMyFA
+odm,O del mio dolce ardor,Gluck,dm,vocal,DcRpFQaVPPM
+odm,O del mio dolce ardor,Gluck,fm,vocal,GiBxePuxblY
+odm,O del mio dolce ardor,Gluck,em,accomp,zU0ZhOZcFYs
+odm,O del mio dolce ardor,Gluck,dm,accomp,GrbrPcxthCs
+odm,O del mio dolce ardor,Gluck,fm,accomp,L0mHoZet6kQ
+plg,Per la gloria d'adorarvi,Bononcini,F,vocal,TL87g16kH5A
+plg,Per la gloria d'adorarvi,Bononcini,Eb,vocal,duSbpa4Q5C8
+plg,Per la gloria d'adorarvi,Bononcini,G,vocal,VcPJKPiMRSA
+plg,Per la gloria d'adorarvi,Bononcini,F,accomp,m8xG4j3Da9c
+plg,Per la gloria d'adorarvi,Bononcini,Eb,accomp,zD1zB7Ol5F4
+plg,Per la gloria d'adorarvi,Bononcini,G,accomp,S77WZrQvJjI

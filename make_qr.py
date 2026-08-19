@@ -1,6 +1,6 @@
 import csv, qrcode, os
 
-BASE = "https://vocalmate-support.github.io/vocalmate-links/s"
+BASE = BASE = "https://vocalmate-support.github.io/l"
 os.makedirs("qr", exist_ok=True)
 
 count = 0

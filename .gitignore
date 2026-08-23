@@ -1,0 +1,9 @@
+# 전부 무시
+*
+
+# 예외
+!.gitignore
+!docs/
+!docs/**
+!qr/
+!qr/**
